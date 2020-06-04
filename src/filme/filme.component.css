@@ -1,0 +1,10 @@
+h1 {
+  font: arial;
+}
+.filmes{
+  margin: 0 auto;
+  height: 200px;
+  width: 200px;
+  background: red;
+  margin-top: 10px;
+}
